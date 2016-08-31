@@ -1,4 +1,4 @@
-title: Chuan Yan
+title: Cao Lin
 #tagline:          A short tagline
 #description:      Describe your website.
 #Comment out url when working locally to resolve base urls correctly
@@ -6,12 +6,12 @@ title: Chuan Yan
 
 # Owner/author information
 owner:
-  name:           yanriver
-  avatar:         yanriver.jpg
+  name:           pandorabox01
+  avatar:         pandorabox01.jpg
 #  bio:
-  email:          yanch1985@gmail.com
+  email:          linc913@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  researchgate: https://www.researchgate.net/profile/Chuan_Yan2/info
+  researchgate: https://www.researchgate.net/profile/Caolin/info
   twitter: 
   facebook:
   github: 
