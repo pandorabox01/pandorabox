@@ -4,8 +4,8 @@ layout: page
 
 <h2> About Me </h2>
 
-<img src="/images/yan1.jpg" class="floatpic" width="200" height="200">
-My name is Chuan Yan(严川).  I am currently working as an assistant professor in the group of Agricultural Animal Ecology, Institute of Zoology ([IOZ]), Chinese Academy of Sciences (CAS).
+<img src="/images/caolin.JPG" class="floatpic" width="200" height="200">
+My name is Cao Lin(曹林).  I am currently working as an assistant professor in the group of Agricultural Animal Ecology, Institute of Zoology ([IOZ]), Chinese Academy of Sciences (CAS).
 I joined IOZ in 2010 as a PHD student supervised by [Prof. Zhibin Zhang]. I graduated and got the assistant professorship of IOZ in 2013.
 Before 2010, I was in Lanzhou University for my master (supervised by Prof.Yingmei Zhang) and bachelor studies.
 
