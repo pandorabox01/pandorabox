@@ -12,4 +12,6 @@ title: Publications
   - **Cao Lin**, Xiao ZhiShu, Guo Cong, Chen Jin. 2011. Scatter-hoarding rodents as secondary seed dispersers of a frugivore-dispersed tree Scleropyrum wallichianum in a defaunated Xishuangbanna tropical forest, China. Integrative Zoology, 6: 227-234.
   - **Cao Lin**, Xiao ZhiShu, Wang ZhenYu, Guo Cong, Chen Jin, Zhang ZhiBin. 2011. High regeneration capacity helps tropical seeds to counter rodent predation. Oecologia, 166: 997–1007.
   - **Cao Lin**, Guo Cong. 2011. Seed dispersal effectiveness of small rodents to the Castanopsis indica in Xishuangbanna tropical seasonal rain forest. Acta Theriologica Sinica, 31, 323-329.
-  - **曹林**, 肖治术, 张知彬，郭聪 （2006）. 亚热带林区啮齿动物对樱桃种子捕食和搬运的作用格局. 动物学杂志, 41(4): 27-32.
+  - 姜明敏，**曹林**，肖治术，郭聪. (2010). 都江堰林区取食樱桃果实(种子)的鸟类及其种子扩散作用. 动物学杂志, 45:27-34.
+  - 刘新家，**曹林**，张知彬，徐来祥，陈进，肖治术. (2008). 黄胸鼠的取食与贮藏策略研究. 曲阜师范大学学报（自然科学版）34:97-100.
+  - **曹林**, 肖治术, 张知彬，郭聪.（2006）. 亚热带林区啮齿动物对樱桃种子捕食和搬运的作用格局. 动物学杂志, 41(4): 27-32.
