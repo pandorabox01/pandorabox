@@ -21,7 +21,7 @@ I am interested in how dynamics of animal populations responds to biotic and abi
 </p>
 
 <h3>Macroecology</h3>
-<img src="/images/marcoecology_copy.png" class="floatpic" width="200" height="151">
+<img src="/images/marcoecology_copy1.png" class="floatpic" width="200" height="151">
 To infer the mechanisms driving species assembly in China mainland by using regional and global animal distribution and phylogenetic data. 
 
 
