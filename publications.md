@@ -8,7 +8,7 @@ title: Publications
   
   - **Cao Lin**, Guo Cong, Chen Jin. 2017. Fluctuation in seed abundance has contrasting effects on the fate of seeds from two rapidly geminating tree species in an Asian tropical forest. Integrative Zoology. 12: 2-11. 
   
-  - Zhang ZhiBin, Wang ZhenYu, Chang Gang, Yi XianFeng, Lu JiQi, Xiao ZhiShu, Zhang HongMao, **Cao Lin**, Wang FuSheng, Li HongJun, Yan Chuan. 2016. Trade-off between seed defensive traits and impacts on interaction patterns between seeds and rodents in forest ecosystems. Plant Ecology. DOI 10.1007/s11258-016-0566-0.
+  - Zhang ZhiBin, Wang ZhenYu, Chang Gang, Yi XianFeng, Lu JiQi, Xiao ZhiShu, Zhang HongMao, **Cao Lin**, Wang FuSheng, Li HongJun, Yan Chuan. 2016. Trade-off between seed defensive traits and impacts on interaction patterns between seeds and rodents in forest ecosystems. Plant Ecology. 217: 253-265.
   
   - Wang ZhenYu, **Cao Lin**, Zhang ZhiBin. 2014. Seed traits and taxonomic relationships determine the occurrence of mutualisms versus seed predation in a tropical forest rodent and seed dispersal system. Integrative Zoology 9, 309–19.
   
