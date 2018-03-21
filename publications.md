@@ -4,9 +4,13 @@ permalink: /publications/index.html
 title: Publications
 ---
 ## Publications
-  - **Cao Lin**, Wang ZhenYu, Yan Chuan, Chen Jin, Guo Cong, Zhang ZhiBin. 2016. Differential foraging preferences on seed size by rodents result in higher dispersal success of medium-sized seeds. Ecology, 97: 3070-3078.
+
+- Chen Qiong, Kyle W. Tomlinson, **Cao Lin***, Wang Bo*, Effects of fragmentation on the seed predation and dispersal by rodents differ among species with different seed size, Integrative Zoology, 2017, 12: 468~476.
+
+  - **Cao Lin**, Guo Cong, Chen Jin*. 2017. Fluctuation in seed abundance has contrasting effects on the fate of seeds from two rapidly geminating tree species in an Asian tropical forest. Integrative Zoology. 12: 2-11. 
   
-  - **Cao Lin**, Guo Cong, Chen Jin. 2017. Fluctuation in seed abundance has contrasting effects on the fate of seeds from two rapidly geminating tree species in an Asian tropical forest. Integrative Zoology. 12: 2-11. 
+  - **Cao Lin**, Wang ZhenYu, Yan Chuan, Chen Jin, Guo Cong, Zhang ZhiBin*. 2016. Differential foraging preferences on seed size by rodents result in higher dispersal success of medium-sized seeds. Ecology, 97: 3070-3078.
+  
   
   - Zhang ZhiBin, Wang ZhenYu, Chang Gang, Yi XianFeng, Lu JiQi, Xiao ZhiShu, Zhang HongMao, **Cao Lin**, Wang FuSheng, Li HongJun, Yan Chuan. 2016. Trade-off between seed defensive traits and impacts on interaction patterns between seeds and rodents in forest ecosystems. Plant Ecology. 217: 253-265.
   
