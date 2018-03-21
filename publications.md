@@ -7,7 +7,7 @@ title: Publications
 
   - **Cao Lin#**, Wang Bo, Yan Chuan, Wang Zhenyu, Zhang Hongmao, Geng Yuanzhao, Chen Jin, Zhang Zhibin. 2018. Risk of cache pilferage determines hoarding behavior of rodents and seed fate, **Behavioral Ecology**, In press.
   
-  - Geng Yuanzhao， Wang Bo， **Cao Lin#**. 2018. Directed seed dispersal by scatter-hoarding rodents into areas with a low density of conspecific seeds in the absence of pilferage, Journal of Mammalogy, 98(6): 1682~1687.
+  - Geng Yuanzhao， Wang Bo， **Cao Lin#**. 2018. Directed seed dispersal by scatter-hoarding rodents into areas with a low density of conspecific seeds in the absence of pilferage, Journal of Mammalogy, 98(6): 1682~1687.
   
   - Chen Qiong, Kyle W. Tomlinson, **Cao Lin**, Wang Bo#. 2017. Effects of fragmentation on the seed predation and dispersal by rodents differ among species with different seed size. **Integrative Zoology**, 12: 468-476.
 
