@@ -26,6 +26,6 @@ title: Publications
   
   - **Cao Lin**, Xiao ZhiShu, Wang ZhenYu, Guo Cong, Chen Jin, Zhang ZhiBin#. 2011. High regeneration capacity helps tropical seeds to counter rodent predation. **Oecologia**, 166: 997–1007.
   
-  - **Cao Lin**, Guo Cong#. 2011. Seed dispersal effectiveness of small rodents to the Castanopsis indica in Xishuangbanna tropical seasonal rain forest. **兽类学报（英文版）**, 31, 323-329.
+    - **Cao Lin**, Guo Cong#. 2011. Seed dispersal effectiveness of small rodents to the Castanopsis indica in Xishuangbanna tropical seasonal rain forest. **兽类学报（英文版）**, 31, 323-329.
   
   - **曹林**, 肖治术#, 张知彬，郭聪. 2006. 亚热带林区啮齿动物对樱桃种子捕食和搬运的作用格局. **动物学杂志**, 41(4): 27-32.
