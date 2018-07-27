@@ -4,8 +4,7 @@ permalink: /publications/index.html
 title: Publications
 ---
 ## Publications (# Corresponding author)
- - 
- Wang Zhenyu, Wang Bo, Yi Xianfeng, Yan Chuan, **Cao Lin#**, Zhibin Zhang. 2018. Scatter-hoarding rodents are better pilferers than larder-hoarders, **Animal Behaviour**, 141: 151-159.
+  - Wang Zhenyu, Wang Bo, Yi Xianfeng, Yan Chuan, **Cao Lin#**, Zhibin Zhang. 2018. Scatter-hoarding rodents are better pilferers than larder-hoarders, **Animal Behaviour**, 141: 151-159.
   
   - **Cao Lin#**, Wang Bo, Yan Chuan, Wang Zhenyu, Zhang Hongmao, Geng Yuanzhao, Chen Jin, Zhang Zhibin. 2018. Risk of cache pilferage determines hoarding behavior of rodents and seed fate, **Behavioral Ecology**, 29(4): 984-991.
   
