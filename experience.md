@@ -10,7 +10,7 @@ title: Experience
   - 2017 – present: Associate professor, Institute of Xishuangbanna Tropical Botanical Garden (XTBG), Chinese Academy of Sciences, Mengla, Yunnan, China.  
   - 2012 – 2016： 助理研究员. 中国科学院西双版纳热带植物园，动物行为与环境变化研究组.
   - 2012 – 2016: Assistant professor, Institute of Xishuangbanna Tropical Botanical Garden (XTBG), Chinese Academy of Sciences, Mengla, Yunnan, China.
-  - 2009 – 2012: 博士后. 中国科学院动物研究所，农业动物生态学研究组. 合作导师：张知彬研究员.
+  - 2009 – 2012: 博士后. 中国科学院动物研究所，农业动物生态学研究组.
   - 2009 – 2012: Postdocoral fellow, Institute of Zoology, Chinese Academy of Sciences, Beijing, China. 
 
 <h3>Education</h3>
